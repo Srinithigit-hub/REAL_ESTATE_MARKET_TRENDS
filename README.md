@@ -55,7 +55,7 @@ You can collect data from:
 
 Typical dataset includes:
 
-Category	    Variables
+Category	        Variables
 
 
 Property :	Price, size (sq.ft), type
