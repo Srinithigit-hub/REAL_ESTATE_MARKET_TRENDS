@@ -101,9 +101,15 @@ Time	:Year, quarter, season
 ●Price per sq.ft analysis
 
 
-📉 Predictive Analytics
+📉 Predictive Analytics:
+
+
 ●Linear Regression
+
+
 ●Decision Trees
+
+
 ●Random Forest
 🤖 Advanced Models
 Machine Learning (ML)
