@@ -127,17 +127,35 @@ Time	:Year, quarter, season
 
 👉 LLMs (AI models) can generate interpretable property price estimates effectively ([arXiv][8])
 
-7. 📊 Sample Analysis Workflow
-Step 1: Data Collection
+7. 📊 Sample Analysis Workflow:
+
+
+Step 1: Data Collection:
+
+
 Collect dataset of properties (price, location, size)
 
-Step 2: Data Cleaning
-Remove missing values
-Normalize data
-Step 3: Exploratory Data Analysis (EDA)
-Price distribution
-Correlation heatmap
-Step 4: Model Building
+Step 2: Data Cleaning:
+
+
+●Remove missing values
+
+
+●Normalize data
+
+
+Step 3: Exploratory Data Analysis (EDA):
+
+
+●Price distribution
+
+
+●Correlation heatmap
+
+
+Step 4: Model Building:
+
+
 Example:
 
 Price = β0 + β1(Size) + β2(Location) + β3(Amenities)
