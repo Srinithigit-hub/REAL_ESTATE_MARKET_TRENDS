@@ -13,8 +13,10 @@ Real estate is a data-driven industry where property prices, demand, and investm
 
 👉 Goal of this project: To analyze trends in real estate using data and identify patterns for price prediction, demand forecasting, and investment insights.
 
-2. 🎯 Objectives of the Project
-Analyze historical property price data
+2. 🎯 Objectives of the Project:
+
+
+●Analyze historical property price data
 Identify factors affecting property prices
 Forecast future trends using analytics models
 Provide insights for investors, buyers, and developers
