@@ -78,10 +78,14 @@ Time	:Year, quarter, season
 
 🔹 1. Rising Prices but Affordability Issues:
 ●Housing costs increasing globally
+
+
 ●Rent burden rising significantly ([Business Insider][4])
 
 
 🔹 2. Shift Toward Premium Housing:
+
+
 ●Sales volume down but value stable due to luxury demand ([The Times of India][5])
 
 
