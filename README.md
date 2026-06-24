@@ -159,17 +159,37 @@ Step 4: Model Building:
 Example:
 
 Price = β0 + β1(Size) + β2(Location) + β3(Amenities)
-Step 5: Prediction
+
+
+Step 5: Prediction:
+
+
 Forecast:
 
-Future prices
-Demand trends
-10. ⚠️ Challenges in Real Estate Analytics
-Data inconsistency
-Lack of transparency
-Regional variations
-External factors (policy, economy, climate risks)
-11. 🚀 Future Scope
+●Future prices
+
+
+●Demand trends
+
+
+10. ⚠️ Challenges in Real Estate Analytics:
+
+
+●Data inconsistency
+
+
+●Lack of transparency
+
+
+●Regional variations
+
+
+●External factors (policy, economy, climate risks)
+
+
+11. 🚀 Future Scope:
+
+
 AI-driven smart cities
 Real-time price prediction systems
 Blockchain for property transactions
