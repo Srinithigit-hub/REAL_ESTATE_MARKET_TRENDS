@@ -209,10 +209,22 @@ Real estate analytics is shifting the industry from intuition-based decisions �
 
 Key takeaway:
 
-Data + AI = smarter investment decisions
-Future real estate success depends on predictive analytics capability
-13. 📌 Bonus: Tools You Can Use
-Python (Pandas, NumPy, Scikit-learn)
-Power BI / Tableau
-Excel (basic analysis)
-GIS tools (for location intelligence)
+●Data + AI = smarter investment decisions
+
+
+●Future real estate success depends on predictive analytics capability
+
+
+13. 📌 Bonus: Tools You Can Use:
+
+
+●Python (Pandas, NumPy, Scikit-learn)
+
+
+●Power BI / Tableau
+
+
+●Excel (basic analysis)
+
+
+●GIS tools (for location intelligence)
