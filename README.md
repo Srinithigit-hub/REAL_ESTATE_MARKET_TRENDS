@@ -6,6 +6,8 @@
 Real estate is a data-driven industry where property prices, demand, and investment decisions depend on multiple variables such as location, income levels, infrastructure, and economic conditions.
 
 ●The Indian real estate market is worth ~$400 billion and is expected to reach $1 trillion by 2030 ([Wikipedia][1])
+
+
 ●Data analytics is transforming decision-making using AI, predictive models, and big data ([The Times of India][2])
 
 
