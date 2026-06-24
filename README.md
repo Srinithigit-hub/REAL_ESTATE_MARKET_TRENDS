@@ -190,11 +190,21 @@ Forecast:
 11. 🚀 Future Scope:
 
 
-AI-driven smart cities
-Real-time price prediction systems
-Blockchain for property transactions
-Climate risk analytics in property valuation
-12. ✅ Conclusion
+●AI-driven smart cities
+
+
+●Real-time price prediction systems
+
+
+●Blockchain for property transactions
+
+
+●Climate risk analytics in property valuation
+
+
+12. ✅ Conclusion:
+
+
 Real estate analytics is shifting the industry from intuition-based decisions → data-driven insights.
 
 Key takeaway:
