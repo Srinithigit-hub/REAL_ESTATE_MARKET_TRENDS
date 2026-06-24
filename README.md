@@ -92,10 +92,12 @@ Time	:Year, quarter, season
 6. 🧠 Data Analytics Techniques Used:
 
 
-📊 Descriptive Analytics
+📊 Descriptive Analytics:
 
 
 ●Mean, median price trends
+
+
 ●Price per sq.ft analysis
 
 
