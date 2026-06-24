@@ -1,6 +1,8 @@
 # REAL_ESTATE_MARKET_TRENDS
 📊 Real Estate Market Trends Project (Data Analytics-Based)
-1. 📌 Introduction
+1. 📌 Introduction:
+
+
 Real estate is a data-driven industry where property prices, demand, and investment decisions depend on multiple variables such as location, income levels, infrastructure, and economic conditions.
 
 The Indian real estate market is worth ~$400 billion and is expected to reach $1 trillion by 2030 ([Wikipedia][1])
