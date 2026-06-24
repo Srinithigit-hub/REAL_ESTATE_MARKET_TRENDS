@@ -26,14 +26,16 @@ Real estate is a data-driven industry where property prices, demand, and investm
 
 
 ●Provide insights for investors, buyers, and developers
+
+
 3. 📂 Data Sources:
 You can collect data from:
 
-Property portals (MagicBricks, 99acres, Zillow)
-Government datasets (housing boards, census)
-Economic indicators (interest rates, inflation)
-Satellite + geo-data (advanced analytics)
-News sentiment & market reports
+●Property portals (MagicBricks, 99acres, Zillow)
+●Government datasets (housing boards, census)
+●Economic indicators (interest rates, inflation)
+●Satellite + geo-data (advanced analytics)
+●News sentiment & market reports
 👉 Advanced research shows combining transaction data + satellite + news sentiment improves prediction accuracy by ~35% ([arXiv][3])
 
 4. 🔑 Key Variables (Features)
