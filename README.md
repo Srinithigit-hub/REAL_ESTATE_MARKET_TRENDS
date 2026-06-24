@@ -50,7 +50,7 @@ You can collect data from:
 
 👉 Advanced research shows combining transaction data + satellite + news sentiment improves prediction accuracy by ~35% ([arXiv][3])
 
-4. 🔑 Key Variables (Features)
+4. 🔑 Key Variables (Features):
 
 
 Typical dataset includes:
