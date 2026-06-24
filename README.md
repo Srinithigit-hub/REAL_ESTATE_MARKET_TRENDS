@@ -228,3 +228,46 @@ Key takeaway:
 
 
 ●GIS tools (for location intelligence)
+
+REAL ESTATE DATASETS.CSV
+
+
+Column,Description
+Property_ID,Unique property listing identifier
+Listing_Date,Date when the property was listed
+Year,Listing year
+Month,Listing month
+Quarter,Listing quarter
+City,City where the property is located
+Region,Geographic region of the property
+Property_Type,"Type of property such as apartment, house, condo, townhouse, villa, or studio"
+Listing_Type,Indicates whether the property is listed for sale or rent
+Bedrooms,Number of bedrooms in the property
+Bathrooms,Number of bathrooms in the property
+Area_Sqft,Total property area in square feet
+Year_Built,Year in which the property was built
+Property_Age,Age of the property in years
+Furnishing_Status,Furnishing condition of the property
+Condition,Overall property condition
+Parking_Spaces,Number of available parking spaces
+Has_Garden,Whether the property has a garden
+Has_Pool,Whether the property has a swimming pool
+Has_Elevator,Whether the property or building has an elevator
+Security_System,Whether the property includes a security system
+Distance_To_City_Center_KM,Distance from property to city center in kilometers
+Distance_To_School_KM,Distance from property to nearest school in kilometers
+Distance_To_Hospital_KM,Distance from property to nearest hospital in kilometers
+Distance_To_Metro_KM,Distance from property to nearest metro or transit station in kilometers
+Crime_Rate_Index,Crime rate index for the property location
+School_Rating,Nearby school quality rating from 1 to 10
+Walkability_Score,Walkability score for the property location from 0 to 100
+Market_Trend_Index,Market trend index representing local real estate conditions
+Interest_Rate_Percent,Mortgage interest rate percentage
+Property_Tax_Rate,Estimated property tax rate percentage
+Price_USD,Estimated property listing price in USD
+Monthly_Rent_USD,Estimated monthly rent in USD
+Price_Per_Sqft,Property price per square foot
+Days_On_Market,Number of days the property has been listed
+Demand_Score,Calculated property demand score from 0 to 100
+Investment_Rating,Investment attractiveness category
+Sold_Status,Current sale status of the property
