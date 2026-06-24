@@ -111,10 +111,20 @@ Time	:Year, quarter, season
 
 
 ●Random Forest
-🤖 Advanced Models
-Machine Learning (ML)
-Time Series Forecasting (ARIMA, LSTM)
-AI-based valuation models
+
+
+🤖 Advanced Models:
+
+
+●Machine Learning (ML)
+
+
+●Time Series Forecasting (ARIMA, LSTM)
+
+
+●AI-based valuation models
+
+
 👉 LLMs (AI models) can generate interpretable property price estimates effectively ([arXiv][8])
 
 7. 📊 Sample Analysis Workflow
