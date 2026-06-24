@@ -29,6 +29,8 @@ Real estate is a data-driven industry where property prices, demand, and investm
 
 
 3. 📂 Data Sources:
+
+
 You can collect data from:
 
 ●Property portals (MagicBricks, 99acres, Zillow)
