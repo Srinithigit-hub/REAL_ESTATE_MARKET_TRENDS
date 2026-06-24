@@ -56,11 +56,23 @@ You can collect data from:
 Typical dataset includes:
 
 Category	    Variables
+
+
 Property :	Price, size (sq.ft), type
+
+
 Location	:City, proximity to transport, schools
+
+
 Economic:	Interest rates, income levels
+
+
 Market	:Demand, supply, inventory
+
+
 Time	:Year, quarter, season
+
+
 5. 📈 Current Market Trends (2025–2026)
 🔹 1. Rising Prices but Affordability Issues
 Housing costs increasing globally
