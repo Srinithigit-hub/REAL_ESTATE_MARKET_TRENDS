@@ -76,23 +76,29 @@ Time	:Year, quarter, season
 5. 📈 Current Market Trends (2025–2026):
 
 
-🔹 1. Rising Prices but Affordability Issues
-Housing costs increasing globally
-Rent burden rising significantly ([Business Insider][4])
+🔹 1. Rising Prices but Affordability Issues:
+●Housing costs increasing globally
+●Rent burden rising significantly ([Business Insider][4])
 
 
-🔹 2. Shift Toward Premium Housing
-Sales volume down but value stable due to luxury demand ([The Times of India][5])
+🔹 2. Shift Toward Premium Housing:
+●Sales volume down but value stable due to luxury demand ([The Times of India][5])
 
 
-6. 🧠 Data Analytics Techniques Used
+6. 🧠 Data Analytics Techniques Used:
+
+
 📊 Descriptive Analytics
-Mean, median price trends
-Price per sq.ft analysis
+
+
+●Mean, median price trends
+●Price per sq.ft analysis
+
+
 📉 Predictive Analytics
-Linear Regression
-Decision Trees
-Random Forest
+●Linear Regression
+●Decision Trees
+●Random Forest
 🤖 Advanced Models
 Machine Learning (ML)
 Time Series Forecasting (ARIMA, LSTM)
